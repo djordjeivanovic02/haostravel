@@ -337,7 +337,7 @@ html {
     padding: 0;
     list-style-type: disc;
     transition: none;
-    display: block;
+    display: none;
     position: static;
     inset: auto;
     overflow: visible;
@@ -361,7 +361,7 @@ html {
     font-size: 12px !important;
     line-height: 14px !important;
     text-decoration: none !important;
-    display: inline-block !important;
+    display: none;
     position: fixed !important;
     inset: auto 12px 12px auto !important;
     overflow: visible !important;
